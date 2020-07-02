@@ -1,29 +1,29 @@
 {
-  "name": "@abhijithvijayan/eslint-config-airbnb",
-  "version": "0.1.0",
-  "description": "Airbnb's ESLint config with optional TypeScript support",
-  "license": "MIT",
-  "repository": "https://github.com/abhijithvijayan/eslint-config-airbnb.git",
-  "author": {
-    "name": "abhijithvijayan",
-    "email": "email@abhijithvijayan.in",
-    "url": "https://abhijithvijayan.in"
-  },
-  "engines": {
-    "node": ">=10.0.0"
-  },
-  "main": "index.js",
-  "keywords": [
-    "airbnb",
-    "eslint",
-    "base",
-    "javascript",
-    "optional",
-    "typescript",
-    "pluggable"
-  ],
-  "dependencies": {
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-config-airbnb-typescript": "^8.0.2"
-  }
+	"name": "@abhijithvijayan/eslint-config-airbnb",
+	"version": "1.0.0",
+	"description": "Airbnb's ESLint config with optional TypeScript support",
+	"license": "MIT",
+	"repository": "https://github.com/abhijithvijayan/eslint-config-airbnb.git",
+	"author": {
+		"name": "abhijithvijayan",
+		"email": "email@abhijithvijayan.in",
+		"url": "https://abhijithvijayan.in"
+	},
+	"engines": {
+		"node": ">=10.0.0"
+	},
+	"main": "index.js",
+	"keywords": [
+		"airbnb",
+		"eslint",
+		"base",
+		"javascript",
+		"optional",
+		"typescript",
+		"pluggable"
+	],
+	"dependencies": {
+		"eslint-config-airbnb-base": "^14.2.0",
+		"eslint-config-airbnb-typescript": "^8.0.2"
+	}
 }
