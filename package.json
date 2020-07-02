@@ -1,6 +1,6 @@
 {
 	"name": "@abhijithvijayan/eslint-config-airbnb",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Airbnb's ESLint config with optional TypeScript support",
 	"license": "MIT",
 	"repository": "https://github.com/abhijithvijayan/eslint-config-airbnb.git",
