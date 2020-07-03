@@ -11,7 +11,7 @@
   <a href="https://david-dm.org/abhijithvijayan/eslint-config-airbnb">
     <img src="https://img.shields.io/david/abhijithvijayan/eslint-config-airbnb.svg?colorB=orange" alt="DEPENDENCIES" />
   </a>
-  <a href="https://github.com/abhijithvijayan/eslint-config-airbnb/blob/master/license">
+  <a href="https://github.com/abhijithvijayan/eslint-config-airbnb/blob/main/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/eslint-config-airbnb.svg" alt="LICENSE" />
   </a>
   <a href="https://twitter.com/intent/tweet?text=Check%20out%20@abhijithvijayan/eslint-config-airbnb%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan/eslint-config-airbnb%0A%0A%23javascript%20%23typescript%20%23eslint%20%23airbnb">
