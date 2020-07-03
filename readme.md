@@ -1,15 +1,15 @@
 <h1 align="center">@abhijithvijayan/eslint-config-airbnb</h1>
 <p align="center">Airbnb's ESLint config with optional TypeScript support</p>
 <div align="center">
-  <a href="https://www.npmjs.com/package/@abhijithvijayan/@abhijithvijayan/eslint-config-airbnb">
-    <img src="https://img.shields.io/npm/v/@abhijithvijayan/@abhijithvijayan/eslint-config-airbnb" alt="NPM" />
+  <a href="https://www.npmjs.com/package/@abhijithvijayan/eslint-config-airbnb">
+    <img src="https://img.shields.io/npm/v/@abhijithvijayan/eslint-config-airbnb" alt="NPM" />
   </a>
-  <a href="https://travis-ci.com/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb">
-    <img src="https://travis-ci.com/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb.svg?branch=master" alt="Travis Build" />
+  <a href="https://travis-ci.com/abhijithvijayan/eslint-config-airbnb">
+    <img src="https://travis-ci.com/abhijithvijayan/eslint-config-airbnb.svg?branch=main" alt="Travis Build" />
   </a>
   </a>
-  <a href="https://david-dm.org/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb">
-    <img src="https://img.shields.io/david/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb.svg?colorB=orange" alt="DEPENDENCIES" />
+  <a href="https://david-dm.org/abhijithvijayan/eslint-config-airbnb">
+    <img src="https://img.shields.io/david/abhijithvijayan/eslint-config-airbnb.svg?colorB=orange" alt="DEPENDENCIES" />
   </a>
   <a href="https://github.com/abhijithvijayan/eslint-config-airbnb/blob/master/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/eslint-config-airbnb.svg" alt="LICENSE" />
@@ -31,9 +31,9 @@
 </p>
 <hr />
 
-❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20@abhijithvijayan/eslint-config-airbnb%21%20by%20%40_abhijithv%0A%0AMy%20awesome%20command-line%20tool%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2F@abhijithvijayan/eslint-config-airbnb%0A%0A%23node%20%23javascript%20%23typescript%20%23cli%20%23npm) about it.
+❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/@abhijithvijayan/eslint-config-airbnb/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20@abhijithvijayan/eslint-config-airbnb%21%20by%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan/eslint-config-airbnb%0A%0A%23javascript%20%23typescript%20%23eslint%20%23airbnb) about it.
 
-This is a wrapper for [`eslint-config-airbnb-base`](https://www.npmjs.com/package/eslint-config-airbnb-base) and [`eslint-config-airbnb-typescript`](https://github.com/iamturns/eslint-config-airbnb-typescript). The purpose behind this wrapper is to expose a javascript module and another typescript module separately for [`@abhijithvijayan/eslint`](https://github.com/abhijithvijayan/eslint-config) package. I recommend using the `abhijithvijayan/eslint-config` package itself as it comes with this package.
+This is a wrapper for [`eslint-config-airbnb-base`](https://www.npmjs.com/package/eslint-config-airbnb-base) and [`eslint-config-airbnb-typescript`](https://github.com/iamturns/eslint-config-airbnb-typescript). The purpose behind this wrapper is to expose a javascript module and another typescript module separately for [`@abhijithvijayan/eslint-config`](https://github.com/abhijithvijayan/eslint-config) package. I recommend using the `abhijithvijayan/eslint-config` package itself.
 
 See [this issue](https://github.com/abhijithvijayan/eslint-config/issues/6) for more information.
 
