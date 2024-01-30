@@ -1,6 +1,8 @@
 module.exports = {
 	"extends": [
-		"eslint-config-airbnb-typescript/lib/shared.js", // `eslint-config-airbnb-typescript` typescript rules
+		// `eslint-config-airbnb-typescript` typescript rules
+		// https://github.com/iamturns/eslint-config-airbnb-typescript
+		'airbnb-typescript/base'
 	],
 	"rules": {}
 }

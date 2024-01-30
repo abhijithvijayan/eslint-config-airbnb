@@ -5,7 +5,9 @@ module.exports = {
 		"node": false
 	},
 	"extends": [
-		"airbnb-base", // `eslint-config-airbnb-base` rules
+		// `eslint-config-airbnb-base` rules
+		// https://www.npmjs.com/package/eslint-config-airbnb-base
+		"airbnb-base",
 	],
 	"rules": {}
 }
